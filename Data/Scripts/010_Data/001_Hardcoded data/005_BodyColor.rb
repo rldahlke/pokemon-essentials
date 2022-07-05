@@ -64,7 +64,7 @@ GameData::BodyColor.register({
 
 GameData::BodyColor.register({
   :id   => :Gray,
-  :name => _INTL("Gray")
+  :name => _INTL("Grey")
 })
 
 GameData::BodyColor.register({
@@ -75,4 +75,9 @@ GameData::BodyColor.register({
 GameData::BodyColor.register({
   :id   => :Pink,
   :name => _INTL("Pink")
+})
+
+GameData::BodyColor.register({
+  :id   => :Orange,
+  :name => _INTL("Orange")
 })
